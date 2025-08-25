@@ -88,16 +88,16 @@ React Router DOM
 📸 Capturas de pantalla
 
 ### Login
-![Login](./docs/screens/Login.png)
+![Login](/frontend/docs/screens/login.png)
 
 ### Listado de usuarios (ADMIN)
-![Usuarios ADMIN](./docs/screens/Usuarios.png)
+![Usuarios ADMIN](/frontend/docs/screens/usuarios.png)
 
 ### Crear usuario
-![Crear usuario](./docs/screens/crear-usuario.png)
+![Crear usuario](/frontend/docs/screens/crear-usuario.png)
 
 ### Editar usuario
-![Editar usuario](./docs/screens/editar-usuario.png)
+![Editar usuario](/frontend/docs/screens/editar-usuario.png)
 
 ### Eliminar usuario
-![Eliminar usuario](./docs/screens/eliminar-usuario.png)
+![Eliminar usuario](/frontend/docs/screens/eliminar-usuario.png)
