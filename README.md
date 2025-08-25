@@ -83,7 +83,7 @@ TypeScript
 Axios
 
 React Router DOM
-
+```  
 
 📸 Capturas de pantalla
 
